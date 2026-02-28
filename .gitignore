@@ -1,0 +1,23 @@
+# ─── Environment Variables (contains passwords) ───
+.env
+
+# ─── Python Cache ─────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ─── Virtual Environment ──────────────────────────
+venv/
+env/
+.venv/
+
+# ─── VS Code ──────────────────────────────────────
+.vscode/
+
+# ─── System Files ─────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── Logs ─────────────────────────────────────────
+*.log
